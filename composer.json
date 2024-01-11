@@ -1,12 +1,12 @@
 {
-    "name": "allyans3/steam-market-api-v2",
+    "name": "Crewrimple/steam_",
     "description": "Steam Market API v2",
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Allyans3",
-            "email": "a.sylenok@gmail.com"
+            "name": "Crewrimple",
+            "email": ""
         }
     ],
     "require": {
