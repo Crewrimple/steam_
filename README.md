@@ -12,19 +12,6 @@
 ## About Steam Market API V2
 
 This package provides a simple interaction with the Steam Market. You can easily get listings, prices, inventory and inspect items. You can do it with your own proxies and get detailed response for deeper analysis of request. 
-
-Based on [JaxWilko/steam-market-api](https://github.com/JaxWilko/steam-market-api)
-
-## Documentation
-
-Documentation is available on the [GitHub Wiki](https://github.com/Allyans3/steam-market-api-v2/wiki/).
-
-## Support
-
-Report bugs on the [issue tracker](https://github.com/Allyans3/steam-market-api-v2/issues).
-
-## License
-
 Steam Market API V2 is open-sourced Composer package licensed under the [MIT license](https://opensource.org/licenses/MIT).# steam_
 # steam_
 # steam_
